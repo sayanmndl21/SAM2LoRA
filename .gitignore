@@ -1,0 +1,10 @@
+checkpoints
+.vscode
+__pycache__
+runs
+results
+*.png
+*.csv
+batched_sam_train.ipynb
+simple_sam_train.ipynb
+redo.md
